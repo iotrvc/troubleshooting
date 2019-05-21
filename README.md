@@ -6,9 +6,9 @@ If your IOT Project will not work, do the below steps:
 2) Plug PHOTON in wall socket, not computer<br>
 3) Unclaim all your devices<br>
 
-       * Go to [link](https://console.particle.io/devices)
+   1. Go to [link](https://console.particle.io/devices)
 
-       * Right-click on the icon on the right of each row and select UNCLAIM
+   1. Right-click on the icon on the right of each row and select UNCLAIM
 
 4) Do Setup WIFI & Reset Photon by following these steps: Go to [link](https://iotrvc.github.io/reset/)
 
