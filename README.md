@@ -3,7 +3,7 @@ If your IOT Project will not work, do the below steps:
 
 ## Make sure you do the following:
 1) Confirm pins are seated well and are in correct slot in bread board as well as sensor<br>
-2) Plug PHOTON in wall socket, not computer<br>\
+2) Plug PHOTON in wall socket, not computer<br>
     
 3) Do Setup WIFI & Reset Photon by following these steps: Go to [link](https://iotrvc.github.io/reset/)
 
