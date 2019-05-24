@@ -8,6 +8,7 @@ If your IOT Project will not work, do the below steps:
 3) Do Setup WIFI & Reset Photon by following these steps: Go to [link](https://iotrvc.github.io/reset/)
 
    *** Save device as SAME name as before to keep IFTTT and other API hooks<br>
+   *** If you change the name of device make sure amd change device names in API's like IFTTT<br>
 
 4) Load your code in [https://build.particle.io](https://build.particle.io) 
 
